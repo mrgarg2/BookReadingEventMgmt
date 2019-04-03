@@ -1,0 +1,5 @@
+D:\DevOps\BookReadingEventMgmt\Shared\bin\Release\Shared.dll
+D:\DevOps\BookReadingEventMgmt\Shared\bin\Release\Shared.pdb
+D:\DevOps\BookReadingEventMgmt\Shared\obj\Release\Shared.csproj.CoreCompileInputs.cache
+D:\DevOps\BookReadingEventMgmt\Shared\obj\Release\Shared.dll
+D:\DevOps\BookReadingEventMgmt\Shared\obj\Release\Shared.pdb
